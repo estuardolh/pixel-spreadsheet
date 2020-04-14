@@ -16,7 +16,7 @@ After running the script it will create an `output.xls` file which will contain 
 
 **Output spreadsheet screeshot**
 
-<img src="me-spreadsheet" width=400>
+<img src="me-spreadsheet.png" width=400>
 
 
 ## original repo:
