@@ -35,7 +35,6 @@ def main():
         for y in range(imsize[1]):
             colors = pix[x, y]
             hexcode = rgbToHexa(colors[0], colors[1], colors[2])
-            print str(hexcode)
             wbformat = workbook.add_format({'bg_color':hexcode})
             worksheet.write(y,x,'', wbformat)
 
